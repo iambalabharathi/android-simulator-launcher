@@ -1,2 +1,2 @@
-# android-simulator-setup
+# Android simulator launcher
 Github action to setup Android simulator
